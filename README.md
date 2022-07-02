@@ -1,4 +1,4 @@
-# vscode--cpp-plugins
+# vscode-cpp-plugins
 VSCode 插件 vsix格式
 
 Download all plug-ins（下载所有插件）<br>
