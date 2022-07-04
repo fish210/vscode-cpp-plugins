@@ -1,6 +1,8 @@
 # vscode-cpp-plugins
 VSCode 插件 vsix格式
 
+VSCode Download（vscode 官网）<br>
+https://code.visualstudio.com/Download<br><br>
 Download all plug-ins（下载所有插件）<br>
 https://marketplace.visualstudio.com/vscode
 
